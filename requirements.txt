@@ -1,0 +1,3 @@
+#arquivo para facilitar a instalação das dependências python
+
+#pip instal -r requirements.txt
